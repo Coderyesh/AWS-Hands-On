@@ -1,2 +1,11 @@
 # AWS
-AWS design Dump :)
+AWS design Dump Here i've uploaded all the tasks which are required for a solution Architect:)
+Task 1- Created a UBUNTU Instance using Amazon Web Services.
+Task 2- Created a WINDOWS Instance using Amazon Web Services.
+#########TransitGatewayDiagram.pdf.#########
+Task 3- Created a PEERING CONNECTION between two machines in different region.
+Task- 4 Created a NAT-GATEWAY for giving internet to the PRIVATE MACHINE.
+Task- 5 Created a NAT_INSTANCE for giving internet to the PRIVATE MACHINE.
+#########VPN-CONNECTION-DIAGRAM.pdf.########
+Task 10- Created a public machine and a private machine in different region and connected to the private machine using public machine.
+Task 11- Created a VPC using CLOUD_FORMATION_TEMPLATE.
