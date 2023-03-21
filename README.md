@@ -1,3 +1,3 @@
 # AWS
 AWS design Dump :)
-OPEN ABOUT THIS REPO..
+OPEN ABOUT THIS REPO.
