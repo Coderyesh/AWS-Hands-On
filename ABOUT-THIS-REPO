@@ -10,3 +10,4 @@ Task- 5 Created a NAT_INSTANCE for giving internet to the PRIVATE MACHINE.
 Task 10- Created a public machine and a private machine in different region and connected to the private machine using public machine.
 Task 11- Created a VPC using CLOUD_FORMATION_TEMPLATE.
 Task 12- Created a INSTANCE using CLOUD_FORMATION_TEMPLATE.
+Task 13- Went through all the Ec2 Policies in the IAM role
