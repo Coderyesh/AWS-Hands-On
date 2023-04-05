@@ -12,4 +12,4 @@ Task 11- Created a VPC using CLOUD_FORMATION_TEMPLATE.
 Task 12- Created a INSTANCE using CLOUD_FORMATION_TEMPLATE.
 Task 13- Went through all the Ec2 Policies in the IAM role.
 Task 14- Created a EC2 Instance and then created a role and then checked the active services using CLI Commands on VS Code 
-...
+Task 15- Attaching Windows Volume To EC2 Windows Instance
