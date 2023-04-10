@@ -14,4 +14,4 @@ Task 13- Went through all the Ec2 Policies in the IAM role.
 Task 14- Created a EC2 Instance and then created a role and then checked the active services using CLI Commands on VS Code 
 Task 15- Attaching Windows Volume To EC2 Windows Instance
 Task 16- Created a connection between two VPC (private and publice vpc ) using TRANSIST GATEWAY insted of using PEERING CONNECTIONS
-..
+...
