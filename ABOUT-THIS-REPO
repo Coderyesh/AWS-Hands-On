@@ -16,4 +16,7 @@ Task 15- Attaching Windows Volume To EC2 Windows Instance
 Task 16- Created a connection between two VPC (private and publice vpc ) using TRANSIST GATEWAY insted of using PEERING CONNECTIONS
 Task 17- Hosted a Website on S3 - Storage device (static website hosting using s3)
 Task 18- Created a VPN Connection between two machines
-Task 19 -
+Task 19 -EFS here we are mounting onto the different instance once the file is saved in a public machine
+The same file will be on the private machine
+Make sure you check the DNS setting in VPC and security groups and add NFS
+
