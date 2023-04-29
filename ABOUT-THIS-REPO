@@ -18,4 +18,4 @@ Task 17- Hosted a Website on S3 - Storage device (static website hosting using s
 Task 18- Created a VPN Connection between two machines
 Task 19-EFS here we are mounting onto the different instance once the file is saved in a public machine the same file will be on the private machine Make sure you check the DNS setting in VPC and security groups and add NFS
 Task 20-Webserver Hosting Create a VPC SUBNETS ROUTE TABLE INTERNETGATEWAYS Create an instance and connect
-.
+..........
