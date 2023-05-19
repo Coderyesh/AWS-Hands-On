@@ -23,5 +23,4 @@ Task 22-Amazon EventBridge created a rule with a schedule where my instance gets
 Task 23- Application layer load balancer Create two subnets in different AZ in a single VPC Create two machines and download HTTPD
 Task 24-Created a volume for the Linux instance Create a machine and login to it and create a volume and login to it and enter the commands
 Task 25- AutoScaling- in this task first enable automatic subnet association in subnets, create an ec2 with httpd in it and check the status
-
-..
+..........
