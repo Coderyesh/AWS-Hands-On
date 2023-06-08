@@ -26,5 +26,4 @@ Task 25- AutoScaling- in this task first enable automatic subnet association in 
 Task 26-Create two machines on the same subnets with the same security groups and create an EFSand then log in to one of the instances and then put the sudo command to it and attach thevolume to it but before that make a folder
 Task 27- Route 53 - Create an instance and install a webserver to it and allow ssh in the security group Start and Activate it and then create a file into the instance and check the Public IP
 
-..............
-
+.............
